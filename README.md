@@ -2,4 +2,5 @@
 
 Experienced Lua Programmer (5 years experience)
 
-I also know C++, Python and I am learning Java (:
+Languages I'm good at: Lua, C++, Python
+Languages I'm learning: C#, C, Java, GLSL, Rust
